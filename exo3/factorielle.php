@@ -2,7 +2,7 @@
 
 function factorielle($n) {
     if ($n == 0) {
-        return 1; // 0! est défini comme égal à 1
+        return 1; // 0 est défini comme égal à 1
     } else {
         $resultat = 1;
         for ($i = 1; $i <= $n; $i++) {
