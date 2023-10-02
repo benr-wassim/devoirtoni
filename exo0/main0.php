@@ -14,4 +14,5 @@ echo "La moyenne des salaires paire est de ".moyenne($salaire_p).". \n" ;
 echo "La mediane impaire est de ".mediane($salaire_i).".\n";
 echo "La mediane paire est de ".mediane($salaire_p).".\n";
 
+// j'ai cloner le devoir de toni
 ?>
